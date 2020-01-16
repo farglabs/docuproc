@@ -1,4 +1,3 @@
-# docuproc
-DocuProc
+# DocuProc
 
 Document Workflow Automation
